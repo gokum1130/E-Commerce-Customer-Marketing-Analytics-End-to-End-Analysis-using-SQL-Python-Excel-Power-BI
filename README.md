@@ -319,7 +319,7 @@ jupyter notebook Python/Exploratory_Data_Analysis_(EDA).ipynb
 
 ## 📄 License
 
-This project is licensed under the **MIT License** — see [`LICENSE`](./LICENSE) for details.
+This project is licensed under the **MIT License** — see [`LICENSE`](./LICENSE.txt) for details.
 
 The dataset is sourced from Kaggle's [Sample Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) and used for educational/portfolio purposes.
 

@@ -288,9 +288,9 @@ cd E-Commerce-Customer-Marketing-Analytics-End-to-End-Analysis-using-SQL-Python-
 # 2. Run cleaning & EDA
 jupyter notebook Python/Cleaning.ipynb
 jupyter notebook Python/Exploratory_Data_Analysis_(EDA).ipynb
-# 4. Load into your SQL database of choice and run queries in /SQL
+# 3. Load into your SQL database of choice and run queries in /SQL
 
-# 5. Open the dashboards
+# 4. Open the dashboards
 #    Excel/Dashboard%20Along%20with%20Pivot%20Tables%20%26Pivot%20Charts.xlsx
 #    PowerBI/Dashboard.pbix
 ```
